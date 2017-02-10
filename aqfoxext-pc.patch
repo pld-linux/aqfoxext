@@ -1,0 +1,11 @@
+--- aqfoxext-0.9.9beta/aqfoxext.pc.in.orig	2011-03-29 21:10:58.000000000 +0200
++++ aqfoxext-0.9.9beta/aqfoxext.pc.in	2017-02-10 21:21:11.975199906 +0100
+@@ -1,7 +1,7 @@
+ prefix=@prefix@
+ 
+ exec_prefix=${prefix}
+-libdir=${exec_prefix}/lib
++libdir=@libdir@
+ includedir=${prefix}/include
+ 
+ Name: aqfoxext
