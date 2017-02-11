@@ -27,8 +27,6 @@ BuildRequires:	pkgconfig
 Requires:	gwenhywfar-fox >= 4
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		ver_cmake	%(echo %{version} | cut -d. -f 1-2)
-
 %description
 Extension library for the FOX toolkit used by AqFinance and AqRadBase.
 
