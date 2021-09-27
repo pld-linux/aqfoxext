@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	AqFoxExt - biblioteka rozszerzeń toolkitu FOX
 Name:		aqfoxext
 # "beta" suffix is specific to particular version (there won't be 0.9.9 non-beta)
 Version:	0.9.9beta
-Release:	1
+Release:	2
 License:	LGPL v2.1+ with BSD parts
 Group:		Libraries
 # https://www.aquamaniac.de/sites/download/packages.php
